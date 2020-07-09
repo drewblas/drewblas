@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Drew Blas.  A software engineer turned devops turned managing director.  I hold multiple AWS certifications, plus Kubernetes CKA & CKAD.
+
+Pronouns: he/him
+
 <!--
 **drewblas/drewblas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
