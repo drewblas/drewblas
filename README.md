@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Drew Blas.  A software engineer turned devops turned managing director.  I hold multiple AWS certifications, plus Kubernetes CKA & CKAD.
+I'm Drew Blas.  A software & cloud/devops engineer.  I hold multiple AWS certifications, plus Kubernetes CKA & CKAD.
 
 Pronouns: he/him
 
