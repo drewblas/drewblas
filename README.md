@@ -2,6 +2,8 @@
 
 I'm Drew Blas.  A software & cloud/devops engineer.  I hold multiple AWS certifications, plus Kubernetes CKA & CKAD.
 
+I love learning, helping others, and having fun with my teammates!
+
 Pronouns: he/him
 
 <!--
